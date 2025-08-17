@@ -1,0 +1,468 @@
+Cluster 1: System Sealing, fuel systems, cooling system, Intake System Location, Tooling Cost, GLV System, GLV System Ground, intake runner system, Systems, Cooling system, venting systems, Fuel system, Air Intake System, fuel delivery system, Fuel System, Liquid Cooling Systems, glv
+Cluster 2: Measurement accuracy, measurement accuracy, measurement tools, Insulation Measurement Test, Measurement
+Cluster 3: Grounded Low Voltage, Voltage Limit, high voltage, High Voltage systems, Grounded Low Voltage Master Switch, Tractive System voltage, low voltage, High Voltage Present, Low Voltage, Voltage, Grounded Low Voltage System, Voltage Indicator, voltage, High Voltage, System Voltage
+Cluster 4: waitlist
+Cluster 5: Design Briefing, design, Design Event, Designated officials, Designated area, Design Spec Sheet, not driving inside the designated course, design concepts, design event points, Design, vehicle design
+Cluster 6: ETC Systems Form, Commercial system, ETC rule, Commercial ETC system, ETC system, ETC
+Cluster 7: maintainability, Liability waiver, Accessibility, Brake System Plausibility Device, Throttle Plausibility Checks, Reliability, visibility, Implausibility, implausibility
+Cluster 8: battery cells, Lithium Batteries, Auxiliary batteries, Low Voltage Batteries, Batteries, Low Voltage batteries, Battery
+Cluster 9: Impact Attenuator, Side Impact Member, Diagonal Side Impact Member, Side Impact Structure, Side Impact Tubing, Upper Side Impact Structure, Side Impact Tube, Lower Side Impact Structure, Lower Side Impact Member, Side Impact steel tubes, Impact Velocity, Side Impact Zone, Composite Impact Attenuators, Standard Impact Attenuator, Upper Side Impact member
+Cluster 10: Fuel Mixture, Test Fixture, Test fixture
+Cluster 11: Adjustment, Quick adjusters, Operating Adjustments, Adjusted Cost Additions, Adjusted Cost, Adjusted Cost of the vehicle, Pedal Adjustment, Tilt lock adjusters
+Cluster 12: Onsite Registration, competition registration, registration fees, registration, Demonstration, Registration
+Cluster 13: Outboard Wheel Motors, electric motors, Motor(s), DC motor, Motor casing, Electric Motors, motor
+Cluster 14: Run Order, Run
+Cluster 15: absolute
+Cluster 16: Maximum Test Speed, Egress Test, Idle Test Speed, tilt test, Test Speed, Test, Test Data, Tilt Test Completion, Speed, Test Speeds, Rain Test, Tilt Test
+Cluster 17: shutdown circuit, Charging Shutdown Circuit, Cockpit Shutdown Button, Shutdown Circuit, motor shutdown, Shutdown Button, Charger Shutdown Button
+Cluster 18: pulleys, Pullout
+Cluster 19: voltage separation, electrically separate sensors, Electrical separation, substrate preparation
+Cluster 20: Ampacity, capacitors, Conductor ampacity, Capacitor, Nominal capacity, Braking Capacity
+Cluster 21: Cylinder Head, Cylinder Certification, Compressed Gas Cylinders
+Cluster 22: chain drive, belts, Lap Belts, Lap Belt, chain or belt, Lap Belt anchorages, Belt, belt drives
+Cluster 23: Cockpit Opening, Driver Cockpit Checks, Open Cockpit, Cockpit Main Switch, cockpit
+Cluster 24: Documentation, Supporting documentation, document reviews, design documents, documents, Design Documents, Visual and/or written documentation
+Cluster 25: May
+Cluster 26: Live connector, Connector, blind connections, Fastened connections, Isolated connections, High Voltage Disconnect, Quick Disconnect, electrical connections, Covered connections, bolted connections
+Cluster 27: Safety, Safety Glasses, Safety Wires, Safety Wiring, Safety glasses
+Cluster 28: nose cone
+Cluster 29: HV+
+Cluster 30: Steel Tubes, Tubing, steel, Steel tubing, tubing, Steel Tubing, steel tubing, Steel, steel tube, Minimum two Steel Tubes, Section steel tubing
+Cluster 31: AIRs, Air, ambient air
+Cluster 32: membership card, Team member, team members, Tube Frame, Team members, Tube frame, Frame Members, Frame Member, Frame, Society Membership, Team Members, frame member, Frame member
+Cluster 33: Shielded, Visor/Face Shield, scatter shields, Scatter Shield, Scatter shields, shielded cable
+Cluster 34: equivalency of bonded joint, Equivalence, Equivalent Alternate, Equivalent Flat Panel, equivalence calculations, equivalency
+Cluster 35: Plain water, boiling water, Water cooled engines
+Cluster 36: Skidpad event, Skidpad Scoring, Skidpad, Skid Pad
+Cluster 37: Damp, damage
+Cluster 38: Electrical Controls, Electrical and control systems, controller, digital controllers, Motor Controller, Control System, Throttle Controller, driver controls, motor controller, control systems
+Cluster 39: durable, Durability
+Cluster 40: Diagonal or X-brace, Diagonal brace
+Cluster 41: 1 Sep 2023
+Cluster 42: pull up resistor, pull down resistors, pull-down resistor, pull up resistors, current limiting resistor, pull-up resistor, Flame Resistant Underwear, Flame Resistant Material, pull down resistor, Fuel Resistant, Moisture resistant
+Cluster 43: Digital Data Transmission Bus, Submission, No Submissions Accepted After, Submission Addresses, Submission Deadline, Submission Information, Document Submission, Document submissions, Submission Location, digital data transmission bus, Late Submission Penalties, transmission, deadline, Penalty Submission, Submission Date, Submission Format, digital data transmission, Late Submission
+Cluster 44: Main Hoop Bracing, Hoop, main hoop, Roll Hoop Bracing Attachment, Bracing, Main Hoop, Main, Roll Hoop Bracing, Main Hoop Braces, Bracing Members, Front Hoop Bracing
+Cluster 45: Treaded tires, Vehicle on Dry Tires, Treaded Tires, Dry Tires, Wet Tires, Tires, Wet, Grooved tires
+Cluster 46: DC circuit, Standalone Circuit, GLV circuits, Intermediate circuit capacitors, short circuit, Circuit board, short circuit current, Precharge Circuit, open circuit, Discharge Circuit, Intermediate Circuit
+Cluster 47: Fire Retardant Underwear, Fire Retardant Material
+Cluster 48: Official designated announcements, official instructions, Official Announcements, argument with officials, Official Languages, official discretion, Event Officials, Track Officials
+Cluster 49: Engine Oil, Engineering Design Process, Engine, Engineering, engine control units, engine, Engine Restart, Engine Speed, engineering, engineering solutions, Industrial Engine, Good Engineering Practices, good engineering practices, Engine Block, engineering effort, Engineering education
+Cluster 50: cables
+Cluster 51: Mechanical Stops, Gear Mechanism, Relay, Mechanical Connection, mechanically actuated fuel pumps, Rigid Mechanical Linkage, Positive Locking Mechanism, mechanical throttle operation, Mechanically attached, clutch mechanism, Mechanical relay, mechanical brakes, Positive Locking Mechanisms
+Cluster 52: Accumulator Container, Spare Accumulator, accumulator, Composite Accumulator Container, Motor/Accumulator current, Container, Accumulator Segment, Accumulator Isolation Relays, Accumulator Segments, Accumulator, Accumulator Container Hand Cart, container, High Voltage Accumulators, Accumulator Charging, Accumulator Access, Segment/Cell Transport Container, Accumulators
+Cluster 53: Slow lane, Fast lane
+Cluster 54: Bag Tank, fuel flow, Fuel Tank, Fuel Pump, Fuel consumption, fuel crew, Fuel rail, fuel cap, Fuel Tanks, basic fuel type, Fuel Injector, Bladder Fuel Cell, late fuel type order, Fuel tank, Fuel
+Cluster 55: Crimp
+Cluster 56: dynamic events, Rear Aerodynamic Zone, Dynamic Area, Dynamic Events, Dynamic events, Aerodynamic Devices, aerodynamic devices, Aerodynamic Zone, Dynamic Testing, Aerodynamic Device
+Cluster 57: Baseline Front Bulkhead, Front, Front Bulkhead, Frontal impact, Front Hoop, Baseline front bulkhead, Front Bulkhead support structure, front hoop
+Cluster 58: Exhaust Outlet, Variable Exhaust, exhaust system, exhaust, Exhaust Protection
+Cluster 59: Vehicle Fabrication, Lubrication system, lubrication system, engine lubrication, Fabrication
+Cluster 60: Throttling Device, Throttle Position Sensor, Electronic Throttle, Throttle, throttle position, Electronic Throttle Control, Engine throttle setting, throttle cable, Throttle blip, Throttle Position, throttle rod, throttle body, throttle position sensors, HV electronics, Electronic control unit, Throttle position sensor, Throttle System, electronic throttle, Throttling devices
+Cluster 61: 12 mm diameter object, internal diameter, 1/4 inch diameter, 6 mm diameter, diameter
+Cluster 62: Test Sample, Laminating, laminate testing, Laminate Panel, Laminate sample, laminate and material testing, Laminate material testing
+Cluster 63: Static events, Stationary Test, Static load, Static Events, vents
+Cluster 64: Y type shoulder straps, shoulder level, Spacing, Shoulder Harness Mounting, Bent Shoulder Harness Mounting Bars, Shoulder Harness Mounting bar, Over the shoulder type, Shoulder Belt, shoulder, Shoulder Harness Mounting Bar, Shoulder Belts, Should, Shoulder Belt Mount Spacing, Shoulder Harness
+Cluster 65: Rules compliance, Rules, Rules Committee, Draft rules, Rules Alterations, Rules Compliance, Rules 2024
+Cluster 66: Lap Belt Side View Angle, Included Angle, Wing Angle, Shoulder Belt Side View Angle, 60° angle, 45° angle
+Cluster 67: inner
+Cluster 68: Black Flag, Green flag, Yellow Flag (Waved), White Flag, Blue Flag, Red Flag, Checkered Flag, Black Flagged, Red and Yellow Striped Flag, Green Flag, Yellow Flag (Stationary), Flags, Command Flag, Mechanical Black Flag Time, Red Flagged, Mechanical Black Flag
+Cluster 69: Load path, Test Load Application Angle, Load, loads, Test Load, Load Carrying
+Cluster 70: Operating Conditions, weather conditions, Vehicle Condition, Inspection Condition, Operating Condition
+Cluster 71: Isolation, Electrical isolation, Conduction Isolation, galvanic isolation, Galvanically isolated, Convection Isolation, galvanically separated, Radiation Isolation
+Cluster 72: vehicles, Vehicle itself, Vehicle part, vehicle, Stalled vehicles, Disabled vehicles, Second Year Vehicles, Vehicle Use, First Year Vehicle, Vehicles, Second Year Vehicle, Personal Vehicles, Vehicle Integrity, Electric Vehicle, Vehicle, Third Year Vehicle, Electric Vehicles
+Cluster 73: Rollover Protection, Roll, rollover stability, Rollover, roll hoops, Roll Hoop, Roll bar, Rollover Protection Envelope
+Cluster 74: Design Criteria, evaluation criteria
+Cluster 75: Exit Gate, Gate, exit, gates, Gate cones
+Cluster 76: high, High Contrast Background
+Cluster 77: Driver Restraint System, Head Restraint Plane, head restraint, Head Restraint, restrictor, Restrictor
+Cluster 78: visible access, Test panels, access panels
+Cluster 79: shifter, Downshifts
+Cluster 80: Reduced conductor, nonconductive housing, conduit, Conduit, Nonconductive material, conductors, Conductive housing
+Cluster 81: two dimensional template, Suspension Travel, tension, Dimensions, Dimensions of the Monocoque, suspension system, suspension components, Tension and Compression Loads, Tension
+Cluster 82: PROTESTS, tests, ingests a cone
+Cluster 83: Core thickness, Skin Thickness, Minimum thickness, Wall Thickness, thickness
+Cluster 84: Timing System, ignition system, Ignition, Ignition Timing, Timing, Ignition System
+Cluster 85: fluid leakage, Leakage prevention, fuel leakage, leaks
+Cluster 86: Stability and Strength, Peel strength, ultimate strength, Yield Strength, perimeter shear strength, Shear strength, Load strength, Ultimate Strength, yield and ultimate strengths, Perimeter shear, Shear Strength, Perimeter shear strength, Yield strength, yield strength, Length, Ultimate strength, Perimeter Shear Test
+Cluster 87: Formula SAE, Formula SAE Competitions, Formula SAE Series, formula SAE, Formula SAE Competition Eligibility, Formula SAE Rules, Formula Style Body
+Cluster 88: Efficiency, Efficiency Event, Efficiency factor, Efficiency scoring, Efficiency score
+Cluster 89: Hydraulic Pumps, Hydraulic Brake System, Hydraulic Clutch Lines, Hydraulic circuits, High Pressure Hydraulic Pumps
+Cluster 90: Cannot measure fuel/energy used, Fuel/energy, Energy Absorbed, energy dissipation, Absorbed energy, energy, Energy used, Energy Dissipation, Maximum fuel/energy used, Energy meter, Energy Meter
+Cluster 91: Hybrid Powertrains, powertrain systems, power ground effects, Powertrain, Power, Engine Powertrain Operating Parameters
+Cluster 92: mirrors
+Cluster 93: SAE Grade 8, SAE Grade, Metric Grade 9.8, gradients
+Cluster 94: student layup quality, graduate students, Student Developed Vehicle, Student Project
+Cluster 95: Add Item Request
+Cluster 96: lap, Lap Joint Test, Lap time, Lap Time
+Cluster 97: H type configuration, Triangulated Configuration, Triangulation, Triangulated, Properly triangulated, Triangulated structure, Triangulated structural tube, triangulation, Properly Triangulated bracing, Triangulated structural node, Fully Triangulated
+Cluster 98: Critical Fasteners, Fastener shear, Minimum fasteners, Fastener Locations, Critical, threaded fasteners, captured fasteners, Fasteners, fasteners, critical fasteners, safety critical systems, bonded fasteners
+Cluster 99: withdrawal
+Cluster 100: Supply and reference lines, Plastic fuel lines, chalk lines, Fuel Lines, vent lines
+Cluster 101: Paddocks, paddock, Padding, padding
+Cluster 102: slow moving vehicle, Moving
+Cluster 103: Composite Materials, material age, material, Bill of Materials, Composite material, Skin material, Materials, composite layup technique, material storage, Rigid Material, skin, Composite Material, composite, Material, Illegal Material, mesh material, Synthetic Material, compressible material, Composite materials, perforated material, Bill of Material, material batch, Flexible Material
+Cluster 104: Tampering
+Cluster 105: Organizing bodies, organizer communications, Competition organizers
+Cluster 106: OC
+Cluster 107: mechanical inspection, Inspection Holes, Technical Inspection Form, Driver Template Inspection, Tech Inspection, Mechanical Inspection, inspection hole, Mechanical Technical Inspection, Technical Inspection, inspection holes, Inspection Form, Driver Inspection, Inspection Approval, Electrical Technical Inspection, mechanical technical inspection, Technical inspection, vehicle inspection, Vehicle Inspection, Technical Inspectors, Chief Technical Inspector, engine inspection, technical inspection, Reinspection, Inspection Sticker
+Cluster 108: Securely attached, Attachment holes, attachment, Structural Attachment, Attachments, Wheel Attachment, Attachment, Chassis attachments, Corner Attachments, Main Hoop Attachment, attachment point
+Cluster 109: stalls, Stall, Breakdowns & Stalls
+Cluster 110: firewall, Firewall
+Cluster 111: Waste/Rejected Heat
+Cluster 112: elimination from competition, Preliminary Registration, Preliminary Review, elimination
+Cluster 113: Finished condition, Finish Line, finished condition, unfinished state, Did Not Finish
+Cluster 114: gears
+Cluster 115: Butterworth Filter
+Cluster 116: anti-submarine, Anti-Submarine Belt, Anti-Submarine Belts, Anti-Submarine Belt Side View Angle
+Cluster 117: Energized electrical work, Energized Parts
+Cluster 118: Cone is Down or Out, SLOW DOWN
+Cluster 119: message corruption, message loss
+Cluster 120: open collection devices, Vacuum devices
+Cluster 121: effort
+Cluster 122: Electrically insulated, Electrical Systems Form, Electrically conductive parts, Electrical Systems Advisor Form, Electrical Systems Officer, Electrically Actuated, Electrical System Form, Electrical System Officer, Electrical conductivity, electrical systems, Electric System Advisor
+Cluster 123: center of gravity, Centerline, vehicle centerline
+Cluster 124: Cell/Segment Position, Cell/Segment Weight, Segments, segment
+Cluster 125: Driver Clearance, Endurance, Endurance Event, Endurance Run, Endurance Distance, Endurance event, Endurance Vehicle, Endurance Run time, Clearance Checks, ground clearance, tolerance, Tolerance
+Cluster 126: Automotive vehicles, Automotive Engineers
+Cluster 127: Hoop to Brace node, Node, node
+Cluster 128: Practice Area, Work Practices
+Cluster 129: skirts
+Cluster 130: Alcohol
+Cluster 131: Judges, Cost Event judging, Design Judging, Cost Judges, judging, Chief Design Judge, judges, Design Judges, Judging, design judging score sheets, judging teams
+Cluster 132: Material Properties, welded frame, welded cap, Non Welded Properties, Welded Properties, Welding
+Cluster 133: Accumulator Temperature, Cell temperature limit, Temperature sensor, Temperature sensors, Positive Temperature Coefficient, temperature rating
+Cluster 134: Driver Ready, Ready to Drive, Ready to run, Ready to Drive Sound, ready to run
+Cluster 135: cost, Team Reported Cost, Cost Tables, cost report, Cost Report, Table Cost, Cost Addendum, Cost Audit
+Cluster 136: cost scenario, Scenario Score, Cost Scenario
+Cluster 137: Solution Heat Treating, heat sinks, heat exchangers
+Cluster 138: internal cross section, Closed section tubing, Internal Cross Section, closed section tubing, Section, Geometric Cross Section, Sections, closed section metal tubing, Closed section
+Cluster 139: EI
+Cluster 140: Off track vehicle, Track, Track debris, Debris, track
+Cluster 141: Functional analysis, Load Based Analysis
+Cluster 142: Snell K2020, Snell K2015, Snell K2010
+Cluster 143: fueling, fueling policies, Refueling, Fueling, Policies
+Cluster 144: Permanent Fuel Level Line, fuel level, Fuel level line, Sound Level, Fuel Level Line, Sound Level Measurement, Maximum Permitted Sound Level, Sound level, fuel level line
+Cluster 145: double shear, Double Lug Joint
+Cluster 146: filler neck opening, No openings in Side View, Fuel Filler Neck, Openings
+Cluster 147: FIA Standards FIA 8860-2018, FIA Standard 8856-2018, Standardize, FIA Standard 8856-2000, FIA Standards FIA 8859-2015, FIA Standards FIA 8860-2010, stand, FIA Standards FIA 8860-2004
+Cluster 148: Protest Format, Protest Period, Protest Point Bond, Cause for Protest
+Cluster 149: SAE International Logo, SAE International, Alternative Tubing Materials, Alternator, International electrical symbol, SAE International Collegiate Design Series
+Cluster 150: Four Stroke Cycle
+Cluster 151: field of vision, Free Field Microphone
+Cluster 152: removable body panels, removable bolt, Non Movable
+Cluster 153: Tire Pressure, Pressure Regulator, Tire pressure, Pressure Regulation, high pressure pump, High Pressure Injection, Pressure/charge gauge, Low Pressure Injection
+Cluster 154: FAR25
+Cluster 155: failure, Component failure, Wiring Failure, Failure load, failure modes, Wall Failure, wiring, sensor failure
+Cluster 156: IR155-3204, IR155-3203
+Cluster 157: Buckling Modulus, buckling, Buckling, Link buckling
+Cluster 158: Vehicle Number, Phone number
+Cluster 159: Components, Thermally sensitive components, analog components, Component Protection, OEM components, Component Data Sheets, Component Envelope
+Cluster 160: Hand signals, Light signal, analogue signal, Analogue Signal, failing to obey signals
+Cluster 161: Brake System Encoder, Brake Energy Regeneration, Regenerative braking, Brake lines, Brake Light, Brake Test, Brake System
+Cluster 162: Weld area, Shear area, Pelvic area, Bearing area
+Cluster 163: Flat pavement, Pavement, Engine Movement, Angular Movement
+Cluster 164: Vehicle Staging, Staging line, Staging Line, Staging Area
+Cluster 165: Load Testing, Physical testing, physical test, ultrasonic testing, Quasi-Static Testing, Testing
+Cluster 166: speed limits, Voltage and energy limits, Three Event Limit, Time limit
+Cluster 167: Infractions, Traction enhancers
+Cluster 168: Transponder
+Cluster 169: Bends, Three-point bending, Bonding, bending, 3 point bending test, Bending
+Cluster 170: Wheel size, Non-pivoting wheels, Wheel axles, Wheel Size, drive wheels, Open Wheeled, Wheel to Wheel racing, Wheel type, Front Wheels, wheelbase
+Cluster 171: Straights, strain relief, straight, straight line, Straight line
+Cluster 172: Team Captains, team expulsion, Team Captain, Team collaboration, teams, Team video
+Cluster 173: university, University name, University registered, University Faculty
+Cluster 174: DOO
+Cluster 175: Driver Switch, driver, Driver Change Area, Driver Change, driver equipment, Driver Suit, driver's license, Driver's Seat, driver's legs, Driver Equipment, Driver, driver accommodation, Rotating Equipment Failure
+Cluster 176: Off Course, Off Course penalty
+Cluster 177: UL94-V0
+Cluster 178: disobedience, experience
+Cluster 179: clutches, clutch drives
+Cluster 180: Mounting Plate, Mounting point, mounting, Main Hoop mounting plates, Lap Belt Mounting
+Cluster 181: project management, Accumulator Management System, Project management
+Cluster 182: Normally Open, normalizing scores, Normally Open contacts, normal operating range, normalizing
+Cluster 183: radius, Radius, Decreasing radius turns, Radius of Bend
+Cluster 184: Penalty Method A, Time Penalty, Point penalty, Penalty time, Calculation Method, Penalty Method B, penalty, Test Method, Penalties, point penalties, Penalty points, time penalty, Cone penalty, Penalty Detail, Penalty
+Cluster 185: solid
+Cluster 186: post event review, Reviewer, Reviewer requests, Literature Review, SES Review
+Cluster 187: Total time, Total mass
+Cluster 188: pedal travel, Pedal Box, Pedal Travel, pedals, Brake Pedal, wheel travel, Brake Over Travel Switch, Brake Overtravel Switch
+Cluster 189: blind nuts, Prevailing Torque Lock Nuts, Lock nut, Jam Nut, Nylon Lock Nuts
+Cluster 190: Sheet metal, non-metallic belt drive, metallic
+Cluster 191: understanding, undertray
+Cluster 192: Technical Drawings, Design Vehicle Drawings, Drawings, Vehicle Drawings, wings
+Cluster 193: Jacking Point, backing, Backing plates
+Cluster 194: Aluminum alloy 6061-T6, Aluminum Tubing, Aluminum Wheel Nuts, Aluminum, aluminum, Fabricated from steel or aluminum, Machined from steel, aluminum or titanium, aluminum alloy 6061-T6
+Cluster 195: complete, Complete, Partial completion
+Cluster 196: email notification, Vehicle Identification, Specifications, SFI Specification 16.5, Change Identification, SFI Specification 16.1, Tire modification, FIA specification 8853/2016
+Cluster 197: manufacturability, Manufacturing technique, Manufacturing feasibility, manufacturing technique, cost and manufacturing event, Tire manufacturer
+Cluster 198: thread locking compounds, Tire compound, locking feature, Thread Locking Compounds
+Cluster 199: Design Event Scoring, scoring, Price Score, Scoring
+Cluster 200: Insulated screw drivers, insulation, Insulated cable shears, Insulated Tools, Insulation Resistance, HV insulating gloves, Insulating barriers, insulating gloves, Insulating material, Insulating materials, HV insulating blankets, Gloves, Heat Insulation, Insulation
+Cluster 201: Structure Equivalent, Structural Equivalency Spreadsheet, Major Structure, major structure of the chassis, Primary Structure Laminate Testing, Equivalent structure, Primary Structure, structural material, Major Structure of the Chassis, structure, Structural Tubing, Primary Structure Envelope
+Cluster 202: TSMP
+Cluster 203: support material, Upper Support Member, Support Tube, Lower Support Member, Support, supports
+Cluster 204: Inertia Switch, Area Moment of Inertia
+Cluster 205: crankcase, Exhaust Crankcase breathers
+Cluster 206: pedestrian
+Cluster 207: Curvature
+Cluster 208: registration requirements, Vehicle Requirements, eligibility requirements, Document Requirements, Functional Requirements, Mounting requirements, Event site requirements
+Cluster 209: Passing zones, not yielding for passing, Passing, Passing rules, passing zone
+Cluster 210: Arc flashes, Protected from shock hazards and arc flash
+Cluster 211: Approved Standard, approved
+Cluster 212: tractive, effective, Tractive Systems Active Light, Accumulator Tractive System, Tractive System Measuring Points, Tractive System
+Cluster 213: IMD
+Cluster 214: competition vehicle, Competition Year, competition, Competition year, collegiatecompetitions@sae.org, Competition Site, Vehicle as Driven at Competition, Competition site, Competition, competition site waiver, Collegiate competitions
+Cluster 215: Multimeter, Multiple turns, Multiple Tubes, multimeter
+Cluster 216: Column, Steering Wheel, Steering Column CV Joints, Steering System Free Play, Rear Wheel Steering, steering column, steering wheel, Steering system, Steering Rack
+Cluster 217: Shaking, Hard Braking
+Cluster 218: Push Bar
+Cluster 219: aesthetics
+Cluster 220: Height, Ride Height, Right time, Right place
+Cluster 221: Target TPS Position, TPS
+Cluster 222: Professional Staff, Professional Assistance, Professional Engineers
+Cluster 223: Wing Location
+Cluster 224: Parts, drivetrain, drivetrain parts
+Cluster 225: vertical section, vertical members
+Cluster 226: Academic Knowledge
+Cluster 227: Decision, tradeoff decisions, Design Decisions
+Cluster 228: pedal return springs, springs, Throttle return spring, return springs
+Cluster 229: Environment
+Cluster 230: No refund
+Cluster 231: FSAE Online website, FSAEOnline Website, event website, website, FSAE Online Website, Event Website
+Cluster 232: tubes, Bent Tubes, Tubes, Sight Tube
+Cluster 233: torque converters, Wheel torque, torque target
+Cluster 234: 7-point harness, 6-point harness, 5 Point Harness, 6 Point Harness, 5-point harness, Harness Fit, Harness, Harness installation, 7 Point Harness, Harness Definitions
+Cluster 235: Exterior walls, Internal Walls, Anterior Superior Iliac Spines, Internal vertical walls, Interior walls
+Cluster 236: dc rating
+Cluster 237: Monocoque bulkheads, monocoque laminate, Monocoque, Monocoque Laminate Test Specimens, monocoque, Monocoque Inspections
+Cluster 238: corner workers
+Cluster 239: Performance, performance, Performance advantage, high performance, Bond Performance
+Cluster 240: terminals, Cell terminal
+Cluster 241: HV-
+Cluster 242: results, scaling, scaling results, test results
+Cluster 243: Electronic copies of Rules Questions, Rules Question, Question and answer session, Rules Questions, Question Publication
+Cluster 244: Competition Information, Informational Flags, deformation, Contact information
+Cluster 245: Figures and Illustrations, Figure eight, figure of eight pattern
+Cluster 246: Polybenzimidazole
+Cluster 247: horizontal floor, Floor Closeout, Horizontal floor Equivalence
+Cluster 248: Anti Intrusion Plate, Template, Template and procedure, Cockpit Template Inspections, IA plate, endplates, Template files, plates, template
+Cluster 249: Issues, government issued
+Cluster 250: Camera Mounts, Helmet camera mounts, Helmet mounted cameras, Helmet
+Cluster 251: cone placement, Force times displacement
+Cluster 252: Presentation, presentation, Presentation Event, Presentation Submissions, Structurally Representative, Presentation Concept, Presentation Schedule, Presentation Format, Structurally representative section
+Cluster 253: prototype, Prototype
+Cluster 254: Tearout
+Cluster 255: Lug Bolts, Bolt or clip, Pin or bolt, Bolt or eyebolt, steel bolts
+Cluster 256: Tire warmers, Tire puncture, tire obstruction
+Cluster 257: drivers meeting, Tubes meeting F.3.2.1.n
+Cluster 258: Accident Avoidance, Accident avoidance
+Cluster 259: Bicycles, Motorcycles
+Cluster 260: Tyour
+Cluster 261: Chin Guard, finger guards
+Cluster 262: Rollerblades
+Cluster 263: High current path, interrupt current, intentional current paths
+Cluster 264: start/stop line, Onboard starter, Starting Line
+Cluster 265: Non-flammable Gas, Nonflammable Material, flammable liquid
+Cluster 266: entry, Removal of Team Entry, Entry Gate
+Cluster 267: Rule Variations, deviation
+Cluster 268: Upright Driving Position, aggressive driving, normal driving position, driving path, Reclined Driving Position
+Cluster 269: Tread depth
+Cluster 270: sensor, Sensor Signals, Sensata Resettable Crash Sensor, Raw Sensor Signals
+Cluster 271: Position, angular position, positively retained, Positive Steering Stops, Positive Stop
+Cluster 272: Accelerator Pedal, Acceleration run time, Unintended acceleration, Deceleration, Acceleration event, Accelerating, Accelerator Pedal Position Sensor, Acceleration run, Decelerates, Peak deceleration, Acceleration, Acceleration Data, Accelerations, Acceleration Run
+Cluster 273: transfer functions, Switch Function
+Cluster 274: Lockout, Lockout/tagout
+Cluster 275: RFID Tag
+Cluster 276: Adjustable tuning, Manually adjustable tuning devices, Adjustable Tie Rod Ends, Tuning, Active Tuning
+Cluster 277: Chicanes, vanes
+Cluster 278: Disqualified, Disqualification
+Cluster 279: XLSX
+Cluster 280: Cells, Lithium based cells, Lithium Chemistry
+Cluster 281: OEM type APPS, APPS
+Cluster 282: Direct Acting, Direct sunlight, Direct Injection
+Cluster 283: Charging leads, supercharger, Charging, charging, turbocharger, Charger output lines, Charging process, Charger, Chargers
+Cluster 284: seat, Seat and Pedal Assembly, Seat
+Cluster 285: offsets, Voltage offsets, gussets, Gussets
+Cluster 286: Cotter Pins
+Cluster 287: Trash Cleanup
+Cluster 288: Custom Designs, Customer account profile
+Cluster 289: Artificially Aged
+Cluster 290: drilling
+Cluster 291: circle, concentric circles, circles
+Cluster 292: anthropometric data
+Cluster 293: Laminate stiffness, stiff, Stiffness
+Cluster 294: Characteristic sound, Roman Characters
+Cluster 295: Allen screws/bolts, Socket Head Cap Screws
+Cluster 296: orange wiring, Orange, Black Flag with Orange Dot
+Cluster 297: holes, Holes, Holes in Regulated Tubing
+Cluster 298: Individual medical insurance
+Cluster 299: Barbed fittings, Annular bulb fittings, Gas Lines and Fittings
+Cluster 300: busbars
+Cluster 301: DNF
+Cluster 302: Collision Protection, overcurrent protection, Thermal Protection, Upstream Overcurrent Protection, driver protection, Motor Protection, Internal Overcurrent Protection, Overcurrent Protection, Rear Impact Protection, Neck protection
+Cluster 303: Photos
+Cluster 304: Modulus of Elasticity, Young's Modulus
+Cluster 305: Free Edge, edges
+Cluster 306: Internal Combustion, Combustion Chamber
+Cluster 307: Tmax
+Cluster 308: Table DR-2, Tab
+Cluster 309: Plastic Ties
+Cluster 310: sprockets, brackets, Bracket
+Cluster 311: Lock Washers
+Cluster 312: UTS
+Cluster 313: Tilting, Bolting
+Cluster 314: Fast Weighting, Fast weighting
+Cluster 315: check valve, recirculation valves, pop-off valves
+Cluster 316: Danger
+Cluster 317: value
+Cluster 318: Chassis Mounting, chassis, Chassis, Chassis Flex, Node of Chassis
+Cluster 319: Contactors
+Cluster 320: absorbent material, Fibrous/absorbent material, shock absorbers
+Cluster 321: DQ
+Cluster 322: E-cigarette
+Cluster 323: warning
+Cluster 324: parking and facility use rules, Test Facility
+Cluster 325: Lids
+Cluster 326: Interlocks, Interlock
+Cluster 327: Discussion Score, Cost Event score, Event, event day discussion
+Cluster 328: Sleeves, Sleeved Butt Joint
+Cluster 329: Grommeted
+Cluster 330: SFI Spec 3.3, SFI Specs 31.1/2010, SFI Specs 41.1/2015, SFI Specs 31.1/2015, SFI Specs 41.1/2010
+Cluster 331: SES, Fuses
+Cluster 332: Soldering
+Cluster 333: Tmin
+Cluster 334: BSPD
+Cluster 335: Notice of Intent, ETC Notice of Intent
+Cluster 336: Dry chemical/dry powder, Dry
+Cluster 337: Lugs, Maintenance Plugs
+Cluster 338: shrouded banana jacks
+Cluster 339: Autocross Procedure, Autocross event, Autocross, Autocross Layout, Autocross Events
+Cluster 340: Emergency switch, Switches, Primary Master Switch, Emergency Switch, Tractive System Master Switch, Push-pull switch, Master Switch, Push-rotate switch, Master Switches
+Cluster 341: Non Crushable Items
+Cluster 342: Indura
+Cluster 343: pylons
+Cluster 344: fusing
+Cluster 345: FlexRay
+Cluster 346: ground, grounded, Grounding, grounding, Earth ground
+Cluster 347: Team name, School Name, Full name
+Cluster 348: Slicks
+Cluster 349: deduct points, points, Bolted joints
+Cluster 350: endoscopes
+Cluster 351: Drive by wire control, Brake by Wire, Voltage sense wires, Wire, wires
+Cluster 352: Lights, LED lights
+Cluster 353: Hand cutting
+Cluster 354: Longitudinal Impact Load, Longitudinal Tube
+Cluster 355: PTC
+Cluster 356: Dollies
+Cluster 357: vapors
+Cluster 358: Temperature monitoring, Voltage monitoring, Insulation Monitoring Device
+Cluster 359: Must, Must NOT
+Cluster 360: Oil catch tank, Oil
+Cluster 361: Guide
+Cluster 362: Halon
+Cluster 363: Assemblies, Fully assembled, fully assembled
+Cluster 364: Processes
+Cluster 365: PDF
+Cluster 366: Weapons
+Cluster 367: Algorithm
+Cluster 368: Uploaded
+Cluster 369: T.5.4.1
+Cluster 370: diffuser
+Cluster 371: Slalom, Slaloms
+Cluster 372: programmable logic controllers, Logic
+Cluster 373: Deflection, Permanent deflection, Loaded deflection
+Cluster 374: Piston Engine, Piston Speed
+Cluster 375: 1.7 g
+Cluster 376: Rear surface, Tire Surface Envelope
+Cluster 377: Time allowed, Response Time, Corrected Time
+Cluster 378: hose, Worm gear type hose clamps, Clamps, hoses, Hose Clamps
+Cluster 379: Braces, Traces
+Cluster 380: Not Submitted
+Cluster 381: Microsoft Excel Worksheet File
+Cluster 382: UL recognized
+Cluster 383: Noise Test, Noise Level
+Cluster 384: Spherical Rod Ends, spherical rod ends, Spherical rod ends, spherical bearings, Spherical Bearings
+Cluster 385: Proban
+Cluster 386: Carbon X, Carbon fiber parts
+Cluster 387: Data acquisition
+Cluster 388: edge distance ratio, Supported span distance
+Cluster 389: Maximum static voltage, Maximum Nominal Operation Voltage, Maximum time, Maximum energy
+Cluster 390: tie wraps, Header wrap, Wrap around a tube
+Cluster 391: Distributed AMS system, distributed
+Cluster 392: Capitalized Terms, Capital expenditures
+Cluster 393: catch cans, CAN
+Cluster 394: ergonomics
+Cluster 395: Page 89 of 140
+Cluster 396: Spillage
+Cluster 397: electrical enclosures, Enclosure
+Cluster 398: belly pan
+Cluster 399: Post Event Violations, Violations
+Cluster 400: HVD
+Cluster 401: Conformal Coating
+Cluster 402: unsportsmanlike conduct
+Cluster 403: Tire Changes, Software Calibration Changes, Tire changes
+Cluster 404: Technical details
+Cluster 405: parallel elements
+Cluster 406: Smoking
+Cluster 407: inserted metal plug, insert
+Cluster 408: Light Bodywork, Removable Bodywork, bodywork, Bodywork
+Cluster 409: Four Bar Linkage, Steering Linkages
+Cluster 410: Self-propelled Pit Carts
+Cluster 411: degree seeking undergraduate
+Cluster 412: Neutral Axis
+Cluster 413: Make versus Buy
+Cluster 414: Bender ISOMETER
+Cluster 415: Rules Validity, rigidity
+Cluster 416: Hub
+Cluster 417: Channel Filter Class, Metric Class
+Cluster 418: R & D
+Cluster 419: Anti-roll/Sway Bars
+Cluster 420: Conversion factors, Version 1.0
+Cluster 421: snagging
+Cluster 422: Drugs
+Cluster 423: gaps
+Cluster 424: Rubber Bushings, Rubber fuel line
+Cluster 425: time out, keep out zone, Spin out
+Cluster 426: fluids, Fluid reserve, maximum amount of fluids
+Cluster 427: Production, production considerations
+Cluster 428: DI boost pump
+Cluster 429: BSE
+Cluster 430: training
+Cluster 431: Kilowatt
+Cluster 432: V.1.4.1, V.1.1
+Cluster 433: plenum
+Cluster 434: Tool Boxes
+Cluster 435: Covers
+Cluster 436: expanding foam, Aqueous Film Forming Foam (AFFF)
+Cluster 437: quasi-isotropic layup, Quasi-Isotropic Layup
+Cluster 438: Finance
+Cluster 439: Schematic
+Cluster 440: Hairpin, Hairpin Turns, Turns
+Cluster 441: marketed, Marketing
+Cluster 442: intercooler, charge air cooler
+Cluster 443: detection strategy
+Cluster 444: Chest to Groin Line
+Cluster 445: budget
+Cluster 446: Loctite
+Cluster 447: profitably built, Build
+Cluster 448: evasive action
+Cluster 449: Faculty Advisor
+Cluster 450: Width, Minimum track width
+Cluster 451: Gasoline
+Cluster 452: BOTS
+Cluster 453: Label
+Cluster 454: adhesive bonding, Adhesive Joint, adhesive
+Cluster 455: 95th percentile male
+Cluster 456: splitter
+Cluster 457: Fire Extinguisher, Fire Extinguishers
+Cluster 458: vibration
+Cluster 459: tape
+Cluster 460: Hard Anodized
+Cluster 461: coolant
+Cluster 462: tangential, Limited slip differential
+Cluster 463: Made or Bought
+Cluster 464: judging sequence, Activation Sequence
+Cluster 465: Nomex
+Cluster 466: outer
+Cluster 467: nylon patches
+Cluster 468: E85

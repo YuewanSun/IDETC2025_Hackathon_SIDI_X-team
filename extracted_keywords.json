@@ -1,0 +1,392 @@
+{
+  "per_row": [
+    {
+      "row_index": 0,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Aerodynamic/Aerodynamics`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Aerodynamic/Aerodynamics` are:\r\n",
+      "raw": [
+        "Aerodynamic/Aerodynamics",
+        "Aerodynamic/Aerodynamics"
+      ],
+      "keywords": [
+        "Aerodynamic",
+        "Aerodynamics"
+      ]
+    },
+    {
+      "row_index": 1,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Tractive System`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Tractive System` are:\r\n",
+      "raw": [
+        "Tractive System",
+        "Tractive System"
+      ],
+      "keywords": [
+        "Tractive System"
+      ]
+    },
+    {
+      "row_index": 2,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Shutdown System`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Shutdown System` are:\r\n",
+      "raw": [
+        "Shutdown System",
+        "Shutdown System"
+      ],
+      "keywords": [
+        "Shutdown System"
+      ]
+    },
+    {
+      "row_index": 3,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Accelerator Pedal Position Sensor/APPS`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Accelerator Pedal Position Sensor/APPS` are:\r\n",
+      "raw": [
+        "Accelerator Pedal Position Sensor/APPS",
+        "Accelerator Pedal Position Sensor/APPS"
+      ],
+      "keywords": [
+        "Accelerator Pedal Position Sensor",
+        "APPS"
+      ]
+    },
+    {
+      "row_index": 4,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Brake Pedal`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Brake Pedal` are:\r\n",
+      "raw": [
+        "Brake Pedal",
+        "Brake Pedal"
+      ],
+      "keywords": [
+        "Brake Pedal"
+      ]
+    },
+    {
+      "row_index": 5,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Suspension`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Suspension` are:\r\n",
+      "raw": [
+        "Suspension",
+        "Suspension"
+      ],
+      "keywords": [
+        "Suspension"
+      ]
+    },
+    {
+      "row_index": 6,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Battery`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Battery` are:\r\n",
+      "raw": [
+        "Battery",
+        "Battery"
+      ],
+      "keywords": [
+        "Battery"
+      ]
+    },
+    {
+      "row_index": 7,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Chassis`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Chassis` are:\r\n",
+      "raw": [
+        "Chassis",
+        "Chassis"
+      ],
+      "keywords": [
+        "Chassis"
+      ]
+    },
+    {
+      "row_index": 8,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Primary Structure`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Primary Structure` are:\r\n",
+      "raw": [
+        "Primary Structure",
+        "Primary Structure"
+      ],
+      "keywords": [
+        "Primary Structure"
+      ]
+    },
+    {
+      "row_index": 9,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Critical Fasteners/Critical Fastener`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Critical Fasteners/Critical Fastener` are:\r\n",
+      "raw": [
+        "Critical Fasteners/Critical Fastener",
+        "Critical Fasteners/Critical Fastener"
+      ],
+      "keywords": [
+        "Critical Fasteners",
+        "Critical Fastener"
+      ]
+    },
+    {
+      "row_index": 10,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Envelope`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Envelope` are:\r\n",
+      "raw": [
+        "Envelope",
+        "Envelope"
+      ],
+      "keywords": [
+        "Envelope"
+      ]
+    },
+    {
+      "row_index": 11,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Tube/Tubing/Tubes`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Tube/Tubing/Tubes` are:\r\n",
+      "raw": [
+        "Tube/Tubing/Tubes",
+        "Tube/Tubing/Tubes"
+      ],
+      "keywords": [
+        "Tube",
+        "Tubing",
+        "Tubes"
+      ]
+    },
+    {
+      "row_index": 12,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Material properties/material/materials`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Material properties/material/materials` are:\r\n",
+      "raw": [
+        "Material properties/material/materials",
+        "Material properties/material/materials"
+      ],
+      "keywords": [
+        "Material properties",
+        "material",
+        "materials"
+      ]
+    },
+    {
+      "row_index": 13,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `External Items/External Item`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `External Items/External Item` are:\r\n",
+      "raw": [
+        "External Items/External Item",
+        "External Items/External Item"
+      ],
+      "keywords": [
+        "External Items",
+        "External Item"
+      ]
+    },
+    {
+      "row_index": 14,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Impact Attenuator`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Impact Attenuator` are:\r\n",
+      "raw": [
+        "Impact Attenuator",
+        "Impact Attenuator"
+      ],
+      "keywords": [
+        "Impact Attenuator"
+      ]
+    },
+    {
+      "row_index": 15,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Accumulator`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Accumulator` are:\r\n",
+      "raw": [
+        "Accumulator",
+        "Accumulator"
+      ],
+      "keywords": [
+        "Accumulator"
+      ]
+    },
+    {
+      "row_index": 16,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Firewall`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Firewall` are:\r\n",
+      "raw": [
+        "Firewall",
+        "Firewall"
+      ],
+      "keywords": [
+        "Firewall"
+      ]
+    },
+    {
+      "row_index": 17,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Powertrain`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Powertrain` are:\r\n",
+      "raw": [
+        "Powertrain",
+        "Powertrain"
+      ],
+      "keywords": [
+        "Powertrain"
+      ]
+    },
+    {
+      "row_index": 18,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Catch Cans`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Catch Cans` are:\r\n",
+      "raw": [
+        "Catch Cans",
+        "Catch Cans"
+      ],
+      "keywords": [
+        "Catch Cans"
+      ]
+    },
+    {
+      "row_index": 19,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Thermal Protection`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Thermal Protection` are:\r\n",
+      "raw": [
+        "Thermal Protection",
+        "Thermal Protection"
+      ],
+      "keywords": [
+        "Thermal Protection"
+      ]
+    },
+    {
+      "row_index": 20,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Scatter Shields`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Scatter Shields` are:\r\n",
+      "raw": [
+        "Scatter Shields",
+        "Scatter Shields"
+      ],
+      "keywords": [
+        "Scatter Shields"
+      ]
+    },
+    {
+      "row_index": 21,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Coolant`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Coolant` are:\r\n",
+      "raw": [
+        "Coolant",
+        "Coolant"
+      ],
+      "keywords": [
+        "Coolant"
+      ]
+    },
+    {
+      "row_index": 22,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Butt Joints/Butt Joint`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Butt Joints/Butt Joint` are:\r\n",
+      "raw": [
+        "Butt Joints/Butt Joint",
+        "Butt Joints/Butt Joint"
+      ],
+      "keywords": [
+        "Butt Joints",
+        "Butt Joint"
+      ]
+    },
+    {
+      "row_index": 23,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Inertia Switch`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Inertia Switch` are:\r\n",
+      "raw": [
+        "Inertia Switch",
+        "Inertia Switch"
+      ],
+      "keywords": [
+        "Inertia Switch"
+      ]
+    },
+    {
+      "row_index": 24,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Transponder`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Transponder` are:\r\n",
+      "raw": [
+        "Transponder",
+        "Transponder"
+      ],
+      "keywords": [
+        "Transponder"
+      ]
+    },
+    {
+      "row_index": 25,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Brake Over Travel Switch/BOTS`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Brake Over Travel Switch/BOTS` are:\r\n",
+      "raw": [
+        "Brake Over Travel Switch/BOTS",
+        "Brake Over Travel Switch/BOTS"
+      ],
+      "keywords": [
+        "Brake Over Travel Switch",
+        "BOTS"
+      ]
+    },
+    {
+      "row_index": 26,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Wiring`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Wiring` are:\r\n",
+      "raw": [
+        "Wiring",
+        "Wiring"
+      ],
+      "keywords": [
+        "Wiring"
+      ]
+    },
+    {
+      "row_index": 27,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Grounded Low Voltage/GLV`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Grounded Low Voltage/GLV` are:\r\n",
+      "raw": [
+        "Grounded Low Voltage/GLV",
+        "Grounded Low Voltage/GLV"
+      ],
+      "keywords": [
+        "Grounded Low Voltage",
+        "GLV"
+      ]
+    },
+    {
+      "row_index": 28,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Grounding`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Grounding` are:\r\n",
+      "raw": [
+        "Grounding",
+        "Grounding"
+      ],
+      "keywords": [
+        "Grounding"
+      ]
+    },
+    {
+      "row_index": 29,
+      "question": "We are a student engineering team designing a vehicle for the FSAE competition. Attached is the FSAE rules document. Please list all rules relevant to `Lighting/Light/Lights`. Answer with only the rule numbers (i.e.: AA.1.1.1) separated by commas and no other words.\r\n\r\nThe rules relevant to `Lighting/Light/Lights` are:\r\n",
+      "raw": [
+        "Lighting/Light/Lights",
+        "Lighting/Light/Lights"
+      ],
+      "keywords": [
+        "Lighting",
+        "Light",
+        "Lights"
+      ]
+    }
+  ],
+  "unique_keywords": [
+    "Aerodynamic",
+    "Aerodynamics",
+    "Tractive System",
+    "Shutdown System",
+    "Accelerator Pedal Position Sensor",
+    "APPS",
+    "Brake Pedal",
+    "Suspension",
+    "Battery",
+    "Chassis",
+    "Primary Structure",
+    "Critical Fasteners",
+    "Critical Fastener",
+    "Envelope",
+    "Tube",
+    "Tubing",
+    "Tubes",
+    "Material properties",
+    "material",
+    "materials",
+    "External Items",
+    "External Item",
+    "Impact Attenuator",
+    "Accumulator",
+    "Firewall",
+    "Powertrain",
+    "Catch Cans",
+    "Thermal Protection",
+    "Scatter Shields",
+    "Coolant",
+    "Butt Joints",
+    "Butt Joint",
+    "Inertia Switch",
+    "Transponder",
+    "Brake Over Travel Switch",
+    "BOTS",
+    "Wiring",
+    "Grounded Low Voltage",
+    "GLV",
+    "Grounding",
+    "Lighting",
+    "Light",
+    "Lights"
+  ]
+}

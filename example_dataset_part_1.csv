@@ -1,0 +1,47 @@
+rule_number,contentV.4.2.2,"Teams using modified lug bolts or custom designs must provide proof that Good Engineering
+Practices have been followed in their design."V.4.3.3,"Tire Set
+a. All four Dry Tires and Wheels or all four Wet Tires and Wheels do not have to be
+identical.
+b. Once each tire set has been presented for Technical Inspection, any tire compound or
+size, or wheel type or size must not be changed."F.1.10,"Primary Structure
+The combination of the following components:
+• Front Bulkhead and Front Bulkhead Support
+• Front Hoop, Main Hoop, Roll Hoop Braces and Supports
+• Side Impact Structure
+• (EV Only) Tractive System Protection and Rear Impact Protection
+• Any Frame Members, guides, or supports that transfer load from the Driver Restraint
+System"F.1.13,"Rollover Protection Envelope
+The Primary Structure plus a plane from the top of the Main Hoop to the top of the Front
+Hoop, plus a plane from the top of the Main Hoop to the rearmost Triangulated structural
+tube, or monocoque equivalent.
+* If there are no Triangulated Structural members aft of the Main Hoop, the Rollover
+Protection Envelope ends at the rear plane of the Main Hoop"F.1.16,"Buckling Modulus (EI)
+Equal to E*I, where E = modulus of Elasticity, and I = area moment of inertia about the
+weakest axis."F.3.5.3,"Aluminum Tubing
+a. Minimum Wall Thickness for Aluminum Tubing: Non Welded 2.0 mm
+Welded 3.0 mm
+b. Non Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be:
+Young’s Modulus (E) 69 GPa (10,000 ksi)
+Yield Strength (Sy) 240 MPa (34.8 ksi)
+Ultimate Strength (Su) 290 MPa (42.1 ksi)
+c. Welded properties for aluminum alloy 6061-T6 for calculations in an SES must be:
+Yield Strength (Sy) 115 MPa (16.7 ksi)
+Ultimate Strength (Su) 175 MPa (25.4 ksi)
+d. If welding is used on a regulated aluminum structure, the equivalent yield strength must
+be considered in the “as welded” condition for the alloy used unless the team provides
+detailed proof that the frame or component has been properly solution heat treated,
+artificially aged, and not subject to heating during team manufacturing.
+e. If aluminum was solution heat treated and age hardened to increase its strength after
+welding, the team must supply evidence as to how the process was performed.
+This includes, but is not limited to, the heat treating facility used, the process applied,
+and the fixturing used.
+Formula SAE® Rules 2024 © 2023 SAE International Page 27 of 140
+Version 1.0 1 Sep 2023"IC.1.1.3,"All waste/rejected heat from the primary heat cycle may be used. The method of conversion is
+not limited to the four stroke cycle."IC.2.4.3,"The maximum restrictor diameters at any time during the competition are:
+a. Gasoline fueled vehicles 20.0 mm
+b. E85 fueled vehicles 19.0 mm"EV.11.2.2,"Appropriate insulated tools must be used when working on the Accumulator or Tractive
+System"EV.11.4.1,"The following work activities at competition are allowed only in the designated area and
+during Electrical Technical Inspection IN.4 See EV.5.3.3
+a. Opening Accumulator Containers
+b. Any work on Accumulators, cells, or Segments
+c. Energized electrical work"
